@@ -1,0 +1,6 @@
+{
+  "name": "玩具總動員：胡迪的硬幣大冒險",
+  "description": "經典玩具總動員風格街機冒險小遊戲！操控胡迪牛仔帽接取旋轉金幣、拯救三眼怪與巴斯光年，閃避阿薛的炸彈挑戰高分！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
